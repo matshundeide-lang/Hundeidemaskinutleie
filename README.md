@@ -1,5 +1,3 @@
-# Hundeide Stubbefresing
+# Hundeidemaskinutleie
 
-Statisk landingsside for stubbefresing i Bergensområdet.
-
-Netlify: bruk `index.html` i rotmappen som publiseringsmappe (`.`). Ingen build-kommando.
+Stubbefresing-nettsiden ligger nå i det dedikerte repositoryet: https://github.com/matshundeide-lang/stubbefres
